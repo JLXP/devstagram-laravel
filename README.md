@@ -1,6 +1,6 @@
 # Devstagram
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 <p align="left">
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 
