@@ -1,11 +1,11 @@
-### Hi there 👋
+#Name's proyect = Devstagram
 
+##Tecnologies
 
-Name's proyect = Devstagram
+https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 
-Tecnologies
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> </p> Laravel
-- 🟠 HTML
-- 🟢 Tailwind
-- 🔴 Livewire
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 
+https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white
+
+https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
